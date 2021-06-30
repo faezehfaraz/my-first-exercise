@@ -1,2 +1,6 @@
 "Hello World"
+<<<<<<< HEAD
 changing this file
+=======
+2nd change in this file
+>>>>>>> newbranch
